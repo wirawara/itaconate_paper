@@ -7,3 +7,5 @@ Medical University of Vienna, Vienna, Austria
 
 
 Code to analyze human samples
+
+Published, Annals of Rheumatic Diseases 2024: https://ard.bmj.com/content/83/Suppl_1/644.2.abstract 
